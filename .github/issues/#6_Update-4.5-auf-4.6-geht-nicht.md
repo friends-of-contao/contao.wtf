@@ -6,7 +6,7 @@ Contao: 4.5
 ## Ort
 Contao Manager
 
-'''php
+```
 Loading composer repositories with package information
 Updating dependencies
 Your requirements could not be resolved to an installable set of packages.
@@ -36,7 +36,7 @@ Your requirements could not be resolved to an installable set of packages.
 
 <warning>Running update with --no-dev does not mean require-dev is ignored, it just means the packages will not be installed. If dev requirements are blocking the update you have to resolve those problems.</warning>
 Finished Composer Cloud resolving.
-'''
+```
 
 [Zum Forenthread](https://community.contao.org/de/showthread.php?72497-Update-4-5-auf-4-6-geht-nicht)
 
