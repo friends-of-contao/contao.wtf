@@ -1,0 +1,2 @@
+# ignore PHPStorm's config directory
+.idea/
