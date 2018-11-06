@@ -10,7 +10,7 @@ Please search the issues first. Your Problem might already have been solved/docu
 
 Dieses Repository sammelt häufige Fehler in Contao Projekten: Backend, Frontend, Contao-Manager oder Composer.
 
-Fügt gerne eure Fehler als Issues hinzu. Wir werden veruchen, eine Lösung zu finden und zu dokumentieren.
+Fügt gerne eure Fehler als Issues hinzu. Wir werden versuchen, eine Lösung zu finden und zu dokumentieren.
 
 Schaut zuvor aber bitte in den Issues, ob es nicht bereits eine Lösung gibt.
 
